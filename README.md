@@ -6,9 +6,7 @@ A Windows GUI tool to simplify kernel debugging setup using KDNET between two ma
 - Configure target machine for KDNET and generate debugging key
 - Share key via temporary network share with automatic cleanup on next boot
 - Retrieve key from target share and launch WinDbg with correct parameters
-- Helper buttons for BitLocker and Secure Boot (use with caution)
-- Auto-scroll log windows on both Target and Host tabs
-- About tab with project information
+
 
 ## Requirements
 
